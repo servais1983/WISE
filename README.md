@@ -7,7 +7,7 @@
 
 > **Outil DFIR nouvelle génération** - Collecte, analyse IA et synthétise les incidents de sécurité Windows et Linux
 
-![WISE Logo](wise_logo.png)
+![WISE Logo](wise.png)
 
 ---
 
